@@ -1,0 +1,109 @@
+Kādu programmatūru var izmantot, lai skatītu epub dokumentus?
+Kuru PDF skatītāju jūs ieteiktu?
+Kādi IDEs ir pieejami Ubuntu?
+Kāda ir vislabākā prāta kartēšanas programmatūra?
+Programmatūra QR koda lasīšanai?
+PDF uz word konvertēšanas programmatūra?
+Vai ir programmatūra, kas var skatīt. dwg failus?
+Vai ir kādi daži labi PHP redaktori?
+Vai ir programmatūras utilīta, lai pielāgotu ekrāna gammu/spilgtumu/kontrastu?
+Lūdzu, iesakiet hex redaktoru komandrindai
+Vai Ubuntu ir pieejama LAN topoloģijas kartēšanas programmatūra?
+Vai ir tāds rīks kā wifi analizators priekš ubuntu?
+Dzēsto datu atkopšanas rīks no flash diska
+Kura ir vienkārša “krāsu izvēles” lietotne GNOME?
+Kāda lietotne, kas liek man regulāri pārtraukt darbu?
+Vai ir kādi labi ASCII mākslas ģeneratori?
+Kādi ir daži labi GUI binārie skatītāji/redaktori?
+Kāds ir vislabākais PDF metadatu skatītājs Ubuntu?
+Vai ir Linux failu pārvaldnieks ar pareizu nolaižamo koka skatu? (kā meklētājs operētājsistēmā OS X)
+Ar kuru lietojumprogrammu iesakāt skatīties TV (DVB)?
+Kas ir vislabākā HDR programmatūra?
+Ko jūs izmantojat, lai rediģētu Microsoft Word dokumentus (docx)?
+Kāds ir labākais Wireframing rīks?
+Vai ir kāda programmatūra, ar kuru fotoattēlos tiks atpazītas sejas?
+Lietojumprogrammas, lai aizstātu iTunes iPod sinhronizācijā?
+Vai ir SSH savienojuma pārvaldnieks?
+Viegla alternatīva gnome sistēmas pārraugam?
+Programmatūra video slaidrādes izveidei?
+Vai Ubuntu ir projektu pārvaldības programmatūra, piemēram, Microsoft Project?
+Vai ext4 ir pieejama kāda atkopšanas programmatūra?
+Kāda bloga redaktora programmatūra ir pieejama?
+Vai varat ieteikt labu modernu GUI lejupielādes pārvaldnieku (wget wrapper?)
+Vai ir kāda programma nestriktu virkņu savietošanai, kas nodrošina atbilstības rādītāju?
+Vai ir kādi aparatūras diagnostikas rīki?
+Ieteikumi Regex redaktoram?
+Vai ir kāda dokumentu skenēšanas un arhivēšanas programmatūra?
+Tastatūras saīsne izslēgšanai?
+Mana sistēma neizslēdzas
+Kā novērst lēnas izslēgšanās problēmu?
+Kā var izslēgt datoru, kad beidzas noteikts process?
+Ubuntu izslēgšanas programma
+Ko dara mans dators, noklikšķinot uz 'Shut Down'?
+Kā izslēgt bez apstiprinājuma uzvednes?
+nekas nenotiek, kad nospiež izslēgt
+kas ir pareizais veids, kā izslēgt ubuntu, izmantojot komandrindu?
+Kā var veikt izslēgšanu, lai nepieprasītu administratora paroli?
+izslēgšana konkrētā veidā, ja neviens neizmanto datoru
+Kāda ir komanda, lai atvērtu izslēgšanas dialogu?
+Kā izslēgt Ubuntu, izmantojot tastatūru?
+slēgšana 5:30 pēcpusdienā katru dienu
+Apgreids no 11.10 uz 12.04
+Kā jaunināt uz izlaiduma versiju 16.04, ja darbojos beta versijā?
+Šaubas par 15.04 upgreidu (vai tas ir neizbēgami un nenovēršami?)
+Vai bezsaistes jaunināšana no 13.10 uz 14.04 ir iespējama?
+Ubuntu apgreids no 12.04 uz 13.10
+Ubuntu jaunināšana neizdevās
+Jaunināšana no 12.04 uz 13.10 (Neatbildētie jautājumi)
+jaunināšana uz Ubuntu 13.10 no Ubuntu 13.04
+Vai ieteicams jaunināt uz Lubuntu 15.04?
+Piespiedu jaunināšana no 12.10 uz 13.04
+Kā daļēji jaunināt uz Ubuntu 11.10 no Ubuntu 11.04?
+Problēma, jauninot Ubuntu 9.10
+Vai vajag jaunināt no 15.10 uz 14.04?
+Kā atjaunināt Xubuntu 11.10 uz Xubuntu 12.04 LTS?
+Kāpēc jauninājums no 11.10 uz 12.04 sabojāja manu sistēmu?
+Problēmas, jauninot no 12.04. uz 14.04
+Problēmas, jauninot Ubuntu 12.10 uz 13.04
+Apgreids no 12.04. uz 12.10., nezaudējot failus?
+Par tiešām vecu Ubuntu 6.06 - Kā jaunināt
+Vai nepieciešams atinstalēt 10.04, lai jauninātu uz 12.04?
+Vai ir jāpārinstalē viss, lai jauninātu no 13.10 uz 14.10?
+atjaunināšanas pārvaldnieks: jaunināt uz 15.04, nevis 16.04
+Jaunināšana no 16.04  uz 16.04.1
+Ubuntu servera apgreids no 9.10 uz 10.04
+Kā lai atjauninu uz 13.04 no beta?
+Kā jaunināt no 12.10 uz 14.04
+Jauninot no 10.10 uz 11.04, cik vietas ir nepieciešams?
+Vai ir jādublē mana 12.04 sistēma, lai jauninātu uz 12.04.1?
+Nevar apgreidot no 12.04 LTS uz 14.04
+Jaunināt no 10.10 uz 11.04
+Kā jaunināt no 14.04 LTS vai 15.10 uz 16.04 no termināļa
+Kā jaunināt no 16.04 LTS uz 16.04.1 LTS
+Jaunināšana no 10.04 uz 11.10
+Kā var pareizi jaunināt uz Ubuntu 14.04 final no 14.04 Beta?
+Vai ir veikta jaunināšanas procedūra no 12.04 LTS uz 14.04 LTS
+Jaunināt no 9.10 uz 11.04
+Kā jaunināt Ubuntu 12.04 uz 14.04, ja man ir duālā sāknēšana windows 7?
+Wubi ierīce/dev/loop0 pilna. Kā iegūt vairāk vietas?
+Izmantojot 12.04., vai var kompilēt pakotnes ar gcc versijā 10.04?
+Nesen lietoto vienumu noņemšana 12.04 versijā
+Jaunināšana no 11.04 (32 biti) uz 12.04 (64 biti)
+Kā rm komanda atšķiras no dzēšanas pogas?
+Kā apskatīt dotā palaidēja detaļas Unity čaulā?
+Kā nodrošināt lietotāja atļauju lasīt un rakstīt /dev/sdax? Kāda ir sintakse?
+Drošības pastiprinājumi neļauj uzstādīt /dev/sdb1
+Kā parādīt grub, kad atsāk no apturēšanas?
+Kā instalēt Lexmark z 600 sērijas printeri?
+Nevar iestatīt HP All in one DJ3630
+Kā pievienot tīkla printeri Ubuntu 15.10?
+Nevar instalēt printera draiveri epsonl210
+Kā instalēt Dell 2150 cdn printeri
+Epson XP-424 bezvadu printera instalēšana
+Instalē EPSON L355 sistēmā Ubuntu 14.04
+Kā instalēt printeri HP F4280?
+Kā instalēt Brother DCP-8110DN lāzerprinteri Ubuntu?
+Kā instalēt Canon MF8040Cn printeri uz Ubuntu 12.04
+Kā instalēt Canon MF8000C printeri Ubuntu 15.10?
+Kā instalēt Canon LBP330 uz Lts 16.04
+Printera Lexmark X4690 (ubuntu 12.04) instalēšana

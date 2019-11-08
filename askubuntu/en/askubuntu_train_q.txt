@@ -1,0 +1,53 @@
+How to record my screen?
+How can I highlight or annotate PDFs?
+Is it worth upgrading from 12.04 LTS to 13.04
+Upgrade to 12.04 64 bit
+How to upgrade Ubuntu 14.04.1 to 14.04.2?
+Upgrading from Ubuntu 14.04 to 15.04
+how to upgrade from ubuntu 15.04 to 15.10?
+Upgrade 12.04 to 12.10 using startup disk
+How to Upgrade from 11.10 to 12.04 when you've got a problem?
+Update 11.04 to 12.04 with LiveCD
+How to upgrade Ubuntu 9.10 to 12.10 via terminal?
+How to upgrade from Ubuntu 10.10 to 11.04?
+No matter what I do Ubuntu 15.04 does not recognize HP LaserJet 1020
+How to setup HP printer/scanner on ubuntu?
+How do I setup my HP C4140 printer wirelessly?
+How to setup wireless printing from a printer connected via usb on Ubuntu Server 12.10?
+How can I install a Pantum 2502W laser printer on Ubuntu
+Install Canon MP560 Ubuntu 15.04
+How to install a Brother MFC-5890CN network printer?
+How do I install drivers for a Konica Minolta 200?
+How do I install drivers for the Panasonic MB1900CX All-in-One Printer/Scanner?
+How To Install Canon LBP2900B printer in 14.04 LTS ? I tried the method for LBP2900 but it didnt work
+Any command line calculator for Ubuntu?
+Extracting embedded images from a PDF
+What to use to quickly cut Audio/Video
+Torrent client for the command-line?
+MySQL GUI Tools
+What developer text editors are available for Ubuntu?
+What screenshot tools are available?
+Which programs can I use to edit PDF files?
+Is there a lightweight tool to crop images quickly?
+What IRC clients are available?
+What new games are available for Ubuntu in 2011?
+UPNP / DLNA (client) player recommendations?
+What scientific plotting software is available?
+Can you recommend a password generator?
+What tools do you use to monitor a web server?
+What is a good MongoDB GUI client?
+Password Management Applications?
+Is there an application for reading mobi files?
+shut down without extra question
+How to shutdown computer when users are logged on?
+What is the proper terminal-way to shutdown?
+How can I automatically shutdown the system after a specific time?
+Hotkey to shut down from login screen?
+How to shutdown the computer after Xsession ends?
+How can one shutdown a PC using the keyboard?
+How can I enable shutdown verbosity?
+Are there any Keyboard Shortcuts to Shutdown?
+Shutdown after a certain time
+Shutdown problem in Ubuntu 16.04
+How do I fix a shutdown problem?
+What graphical utility can I use for Ubuntu auto shutdown?

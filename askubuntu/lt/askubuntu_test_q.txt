@@ -1,0 +1,109 @@
+Kokią programinę įrangą galiu naudoti norint peržiūrėti EPUB dokumentus?
+Kuraį PDF peržiūrėjimo programą galėtumėte rekomenduoti?
+Kokie IDE yra prieinami Ubuntu?
+Kokia yra geriausia "Mind Mapping" programinė įranga?
+Programinė įranga, skirta skaityti QR kodą?
+PDF į Word konvertavimo programinę įrangą?
+Ar yra programinė įranga, kuri gali peržiūrėti .dwg failus?
+Kokie geri PHP redaktoriai?
+Ar yra pagalbinė programinė įranga pritaikyti ekrano gamą / ryškumą / kontrastą?
+Prašome rekomenduoti hex redaktorių komandinei eilutei
+Ar yra tinklo topologijos kartografavimo programinė įranga skirta Ubuntu?
+Ar yra Ubuntu įrankis toks kaip "wifi" analizatoriaus?
+Ištrintų duomenų atkūrimo iš "flash drive" įrankis
+Koks yra paprastas spalvų rinkiklis GNOME programai?
+Bet kokia programa, kuri man primintų daryti reguliareias pertraukas darbo metu? 
+Kokie yra geri ASCII meno generatoriai?
+Kokios yra geros dvejetainės GUI peržiūros priemonės / redaktoriai?
+Kokia yra geriausia "PDF" metaduomenų peržiūrėjimo programa "Ubuntu" sistemoje?
+Ar yra "Linux" failų tvarkyklė, tinkamai išskleidžiamajame medžio rodinyje? (pvz., OS X ieškiklis)
+Kuria programą tu rekomenduotum žiūrėti televizorių (DVB)?
+Kas yra geriausia HDR programinė įranga?
+Ką naudojate redaguoti "Microsoft Word" dokumentus (docx)?
+Koks geriausias "Wireframing" įrankis?
+Ar yra kokia nors programinė įranga, kuri padarys veido atpažinimą nuotraukose?
+Programos, skirtos pakeisti "iTunes" sinchronizavimą "iPod" įrenginiui?
+Ar yra SSH ryšio tvarkyklė?
+Paprasta alternatyva gnome-system-monitor programai?
+Programinė įranga, skirta sukurti vaizdo demonstraciją?
+Ar yra "Ubuntu" projekto valdymo programinė įranga, tokia kaip "Microsoft Project"?
+Ar yra kokia nors "ext4" atkūrimo programinė įranga?
+Kokia yra galima tinklaraščio redagavimo programinė įranga?
+Ar galite rekomenduoti gerą šiuolaikinį GUI atsisiuntimų tvarkytuvą (wget wrapper?)
+Ar yra kokia nors neaiškių eilučių atitikimo programa, suteikianti atitikties rezultatą?
+Ar yra aparatūros diagnostikos įrankių?
+Regex redaktoriaus rekomendacija?
+Ar yra dokumentų nuskaitymo ir archyvavimo programinė įranga?
+Klaviatūros spartieji klavišai išjungimui?
+Mano sistema neišjungia
+Kaip pašalinti lėto išjungimo trikdžius?
+Kaip galiu išjungti kompiuterį, kai baigiasi tam tikras procesas?
+Ubuntu uždaro programą
+Ką daro mano kompiuteris, spustelėdamas "Išjungti"?
+Kaip uždaryti be patvirtinimo eilutės?
+Neveikia paspaudus išjungimą
+koks teisingas būdas išjungti ubuntu naudojant komandinę eilutę?
+Kaip galiu uždaryti, nereikalaujamą administratoriaus slaptažodžį?
+išjungti reikiamu būdu, jei niekas nenaudoja kompiuterio
+Kokia komanda atidaryti išjungimo dialogą?
+Kaip uždaryti Ubuntu naudojant klaviatūrą?
+išjungti kasdien 5:30 val
+Atnaujinimas nuo 11.10 iki 12.04
+Kaip atnaujinti paskutinę 16.04 versiją, jei aš naudoju beta versiją?
+Abejonės dėl atnaujinimo 15.04 (ar tai įprasta ir neišvengiama?)
+Ar yra galima atnaujinimas nuo 13.10 iki 14.04 neprisijungus?
+Atnaujinimas iš "Ubuntu" nuo 12.04 iki 13.10
+Ubuntu naujinimas nepavyko
+Atnaujinimas nuo 12.04 iki 13.10 (neatsakyti klausimai)
+atnaujinimas į Ubuntu 13.10 iš Ubuntu 13.04
+Ar rekomenduojama atnaujinti į Lubuntu 15.04?
+Priverstinis atnaujinimas nuo 12.10 iki 13.04
+Kaip iš dalies atnaujinti Ubuntu 11.04 į Ubuntu 11.10?
+Problema atnaujinti Ubuntu 9.10
+Ar reikia atnaujinti iki 15.10 nuo 14.04?
+Kaip atnaujinti Xubuntu 11.10 į Xubuntu 12.04 LTS?
+Kodėl naujinimas nuo 11.10 iki 12.04 sugadino mano sistemą?
+Problemos atnaujinimas nuo 12.04 iki 14.04
+Problemos atnaujinant Ubuntu nuo 12.10 iki 13.04
+Atnaujinti nuo 12.04 iki 12.10 neprarandant failų?
+Tikrai senas Ubuntu 6.06 - kaip atnaujinti
+Ar reikia pašalinti 10.04, kad galėčiau atnaujinti iki 12.04?
+Ar turiu iš naujo įdiegti viską, kad būtų galima atnaujinti nuo 13.10 iki 14.10?
+atnaujinimo tvarkyklė: atnaujinkite iki 15.04, o ne 16.04
+Atnaujinimas nuo 16.04 iki 16.04.1
+Ubuntu Serverio atnaujinimas nuo 9.10 iki 10.04
+Kaip aš atnaujinu iki 13.04 iš beta versijos?
+Kaip atnaujinti nuo 12.10 iki 14.04
+Atnaujinimas nuo 10.10 iki 11.04, kiek reikia vietos?
+Ar turiu atsarginę kopiją savo 12.04 sistemos atnaujinti iki 12.04.1?
+Negalima atnaujinti nuo 12.04LTS iki 14.04
+Atnaujinkite nuo 10.10 iki 11.04
+Kaip atnaujinti iš terminalo 14.04 LTS arba 15.10 į 16.04
+Kaip atnaujinti nuo 16.04 LTS iki 16.04.1 LTS
+Atnaujinimas nuo 10.04 iki 11.10
+Kaip teisingai atnaujinti į Ubuntu 14.04 paskutinę versiją iš 14.04 Beta?
+Ar yra atnaujinimo procedūra nuo 12.04 LTS iki 14.04 LTS
+Atnaujinkite nuo 9.10 iki 11.04
+Kaip atnaujinti Ubuntu nuo 12.04 iki 14.04, jei turiu dvigubą įkrovą su "Windows 7"?
+Wubi įrenginys /dev/loop0 yra pilnas. Kaip gauti daugiau vietos?
+Ar galiu kompiliuoti paketus naudojant 12.04 su gcc už 10.04?
+Pašalinama neseniai naudoti elementai 12.04 versijoje
+Atnaujinimas nuo 11.04 (32 bitų) iki 12.04 (64 bitų)
+Kuo skiriasi komanda rm nuo mygtuko trinti?
+Kaip "Unity" parodyti konkrečios paleidimo priemonės informaciją?
+Kaip pateikti vartotojo leidimą skaityti ir rašyti / dev / sdax? Kas yra sintaksė?
+Apsaugos patobulinimai neleidžia įrengti / dev / sdb1
+Kaip rodyti grub, kai iš naujo paleidžiama?
+Kaip įdiegti Lexmark z600 serijos spausdintuvą?
+Negalima nustatyti "HP All" viename "DJ3630"
+Kaip pridėti tinklo spausdintuvą Ubuntu 15.10 sistemoje?
+Nepavyko įdiegti spausdintuvo tvarkyklės epson l210
+Kaip įdiegti "Dell 2150cdn" spausdintuvą
+Epson XP-424 belaidžio spausdintuvo diegimas
+EPSON L355 diegimas Ubuntu 14.04
+Kaip įdiegti HP F4280 spausdintuvą?
+Kaip įdiegti "Brother DCP-8110DN" lazerinį spausdintuvą "Ubuntu"?
+Kaip įdiegti Canon MF8040Cn spausdintuvą Ubuntu 12.04
+Kaip įdiegti Canon MF8000C spausdintuvą Ubuntu 15.10?
+Kaip įdiegti "Canon LBP330" 16.04 Lts
+Įdiekite spausdintuvą "Lexmark X4690" ("Ubuntu 12.04")

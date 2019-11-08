@@ -1,0 +1,109 @@
+Millist tarkvara saab kasutada epubi dokumentide avamiseks?
+Millist PDFi vaaturit soovitaksite?
+Millised IDE-d on Ubuntu jaoks saadaval?
+Milline on parim seoseskeemide tarkvara?
+Tarkvara QR-koodi lugemiseks?
+PDFi wordiks teisendamise tarkvara?
+Kas on olemas tarkvara, millega saab vaadata .dwg faile?
+Mis on mõned head PHP redaktorid?
+Kas ekraani gamma/ereduse/kontrasti reguleerimiseks on olemas mõni utiliit?
+Palun soovitage kesta jaoks kuuskantide redaktorit
+Kas Ubuntus on saadaval LAN topoloogia kaardistamise tarkvara?
+Kas ubuntu jaoks on olemas selline tööriist nagu wifi analüsaator?
+Tööriist mäluseadmest kustutatud andmete taastamiseks
+Milline on lihtne "värvivalija" rakendus GNOME jaoks?
+Kas on mõni rakendus, mis käseb mul regulaarselt tööpause teha?
+Millised on mõned head ASCII kunsti generaatorid?
+Millised on mõned head GUI binaarvaaturid/redaktorid?
+Milline on Ubuntu jaoks parim PDF-i metaandmete vaatur?
+Kas on olemas Linuxi failihaldur, millel on korralik ripppuuvaade? (nagu finder OS X-is)
+Millist rakendust soovitate teleri (DVB) vaatamiseks?
+Mis on parim HDR-tarkvara?
+Mida kasutatakse Microsoft Wordi dokumentide (docx) redigeerimiseks?
+Milline on parim Wireframe'i tööriist?
+Kas on olemas tarkvara, mis tuvastab fotodel näod?
+iPodi sünkroonimiseks iTunesi asendavad rakendused?
+Kas on olemas SSH ühendushaldur?
+Väiksem alternatiiv gnome-system-monitorile?
+Video slaidiseansi loomise tarkvara?
+Kas Ubuntu jaoks on olemas projektihaldustarkvara nagu Microsoft Project?
+Kas ext4 jaoks on saadaval taastetarkvara?
+Milline ajaveebiredaktori tarkvara on saadaval?
+Kas oskate soovitada head kaasaegset GUI allalaadimishaldurit (wget wrapper?) 
+Kas on olemas mõni hägusate stringide vastendamise programm, mis näitab vaste skoori?
+Kas on olemas mõni riistvara diagnostikatööriist?
+Regexi redaktori soovitusi?
+Kas on olemas dokumentide skannimise ja arhiivimise tarkvara?
+Väljalülitamise kiirklahv?
+Minu süsteem ei sulgu
+Kuidas teha aeglase sulgemise tõrkeotsingut?
+Kuidas saab arvuti kindla protsessi lõppedes välja lülitada?
+Ubuntu rakenduse sulgemine
+Mida teeb arvuti, kui klõpsan nuppu Sule arvuti?
+Kuidas sulgeda ilma kinnitusviibata?
+Sulgemise korral ei juhtu midagi
+Mis on õige viis ubuntu sulgemiseks käsurea abil?
+Kuidas teha nii, et väljalülitamine ei nõuaks administraatoriparooli?
+väljalülitamine konkreetsel viisil, kui keegi arvutit ei kasuta
+Mis on käsk sulgemisdialoogi avamiseks?
+Kuidas Ubuntu klaviatuuri abil välja lülitada?
+väljalülitamine 17.30 iga päev
+Üleminek 11.10-lt 12.04-le
+Kuidas uuendada valmisversiooniks 16.04, kui kasutan beetaversiooni?
+Kahtlused 15.04 täienduse osas (kas see on vältimatu ja kohustuslik?) 
+Kas on võimalik võrguühenduseta täiendus 13.10-lt 14.04-le?
+Üleminek versioonilt ubuntu 12.04 versioonile 13.10
+Ubuntu uuendamine nurjus
+Üleminek 12.04-lt 13.10-le (vastamata küsimused) 
+Ubuntu 13.10 täiendamine Ubuntu 13.04-lt
+Kas on soovitatav uuendada Lubuntu 15.04-ks?
+Versioonilt 12.10 versiooniks 13.04 täienduse sundimine
+Kuidas uuendada Ubuntu osaliselt versiooniks 11.10 versioonilt 11.04?
+Probleem Ubuntu 9.10 uuendamisel
+Kas on vaja versioon 14,04 täiendada versiooniks 15.10?
+Kuidas uuendada Xubuntu 11.10 Xubuntu 12.04 LTS-iks?
+Miks rikkus 11.10 täiendus versiooniks 12.04 minu süsteemi?
+Probleemid versioonilt 12.04 versioonile 14.04 uuendamisel
+Probleemid Ubuntu 12.10 täiendamisel versiooniks 13.04
+Täiendus 12.04-lt 12.10-le faile kaotamata?
+Kuidas uuendada väga vana Ubuntu 6.06
+Kas pean 10.04 desinstallima, et täiendada versiooniks 12.04?
+Kas pean kõik uuesti installima, et uuendada 13.10-lt 14.10-le?
+värsekendamishaldur: versiooni 16.04 asemel versiooniks 15.04 täiendamine
+16.04 uuendamine versiooniks 16.04.1
+Ubuntu serveri 9.10 uuendamine versiooniks 10.04
+Kuidas uuendada 13.04 beetast?
+Kuidas minna üle versioonilt 12.10 versioonile 14.04
+Täiendades 10.10-lt 11.04-le, kui palju ruumi on vaja?
+Kas ma pean oma 12.04 süsteemi varundama, et täiendada versiooniks 12.04.1?
+Ei saa üle minna 12.04 LTS-ilt 14.04-le
+Versiooni 10.10 täiendamine versiooniks 11.04
+Kuidas uuendada terminalist 14,04 LTS või 15,10 kuni 16,04
+Kuidas uuendada versioon 16.04 LTS versiooniks 16.04.1 LTS
+Üleminek 10.04-lt 11.10-le
+Kuidas saan Ubuntu 14.04 lõplikuks versiooniks õigesti üle minna 14.04 beetaversioonilt?
+Kas on olemas versiooni 12.04 LTS versiooniks 14.04 LTS täiendamise protseduur?
+9.10 versioonitäiendus 11.04ks
+Kuidas uuendada Ubuntu versioonilt 12.04 versioonile 14.04, kui mul on kaksikbuutimine windows 7-ga?
+Wubi seadme /dev/loop0 on täis. Kuidas saada rohkem ruumi?
+Kas 12.04 abil saab kompileerida 10.04 jaoks mõeldud gcc-ga pakette?
+Viimati kasutatud üksuste eemaldamine 12.04-s
+Üleminek versioonilt 11.04 (32-bitine) versioonile 12.04 (64-bitine) 
+Kuidas erineb rm käsk kustutamisnupust?
+Kuidas vaadata Unityst käiviti üksikasju?
+Kuidas anda kasutajale õigus /dev/sdaxis lugeda ja kirjutada? Mis on süntaks?
+Turbetäiustused takistavad  /dev/sdb1 ühendamist
+Kuidas kuvada grub pärast peatamisest naasmist?
+Kuidas paigaldada Lexmark z600 seeria printerit?
+Programmi HP All in one ei saa häälestada ühes DJ3630-s
+Kuidas lisada võrguprinterit operatsioonisüsteemis Ubuntu 15.10?
+Printeridraiverit epson l210 ei saa installida
+Kuidas installida Dell 2150cdn printerit
+Juhtmevaba printeri Epson XP-424 installimine
+EPSON L355 paigaldamine operatsioonisüsteemis Ubuntu 14.04
+Kuidas installida printerit HP F4280?
+Kuidas installida Ubuntus Brother DCP-8110DN laserprinter?
+Canoni MF8040Cn printeri installimine Ubuntu 12.04 jaoks
+Kuidas installida Canon MF8000C printer Ubuntu 15.10 jaoks?
+Canon LBP330 installimine operatsioonisüsteemis Lts 16.04
+Printeri Lexmark X4690 installimine (ubuntu 12.04) 

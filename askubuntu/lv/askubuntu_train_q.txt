@@ -1,0 +1,53 @@
+Kā ierakstīt ekrānu?
+Kā var izcelt vai anotēt PDF failus?
+Vai vērts upgreidoties no 12.04 LTS uz 13.04
+Jaunināt uz 12.04 64 bitu
+Kā jaunināt Ubuntu 14.04.1 uz 14.04.2?
+Jaunināšana no Ubuntu 14.04 uz 15.04
+kā jaunināt no ubuntu 15.04 uz 15.10?
+Upgreidot 12.04. uz 12.10., izmantojot startēšanas disku
+Kā jaunināt no 11.10 uz 12.04, kad ir problēma?
+Atjaunināt 11.04. uz 12.04. ar LiveCD
+Kā jaunināt Ubuntu 9.10 uz 12.10, izmantojot termināli?
+Kā jaunināt no Ubuntu 10.10 uz 11.04?
+Lai ko es daru, Ubuntu 15.04 neatpazīst HP LaserJet 1020
+Kā iestatīt HP printeri/skeneri uz ubuntu?
+Kā iestatīt HP C4140 printeri bezvadu režīmā?
+Kā iestatīt bezvadu drukāšanu no printera, kas savienots ar Ubuntu Server 12.10 caur usb.
+Kā var instalēt Pantum 2502W lāzerprinteri Ubuntu
+Canon MP560 Ubuntu 15.04 instalēšana
+Kā instalēt Brother MFC-5890CN tīkla printeri?
+Kā instalēt draiverus Konica Minolta 200?
+Kā instalēt draiverus Panasonic MB1900CX All-in-One printerim/skenerim?
+Kā instalēt Canon LBP2900B printeri 14.04 LTS? Es izmēģināju metodi priekš LBP2900, bet tā nelīdzēja.
+Kāds komandrindas kalkulators priekš Ubuntu?
+Iegulto attēlu izgūšana no PDF
+Ko izmantot, lai ātri izgrieztu audio/video
+Torenta klients komandrindai?
+MySQL GUI rīki
+Kādi izstrādātāju teksta redaktori ir pieejami Ubuntu?
+Kādi ekrānuzņēmuma rīki ir pieejami?
+Kuras programmas var izmantot PDF failu rediģēšanai?
+Vai ir viegls rīks attēlu ātrai apgriešanai?
+Kādi IRC klienti ir pieejami?
+Kādas jaunas spēles Ubuntu ir pieejamas 2011. gadā?
+UPnP/DLNA (klienta) atskaņotāja ieteikumi?
+Kāda zinātnisko diagrammu veidošanas programmatūra ir pieejama?
+Vai varat ieteikt paroļu ģeneratoru?
+Kādus rīkus jūs izmantojat, lai pārraudzītu tīmekļa serveri?
+Vai ir kāds labs MongoDB GUI klients?
+Paroles pārvaldības lietojumprogrammas?
+Vai ir lietojumprogramma mobi failu lasīšanai?
+izslēgt bez papildu jautājuma
+Kā izslēgt datoru, kamēr lietotāji ir ielogojušies?
+Kāds ir pareizais galīgais veids izslēgšanai?
+Kā automātiski izslēgt sistēmu pēc noteikta laika?
+Karstais taustiņš sistēmas izslēgšanai no pieteikšanās ekrāna
+Kā izslēgt datoru pēc Xsession beigām?
+Kā var izslēgt datoru, izmantojot tastatūru?
+Kā var iespējot izslēgšanas verbozitāti?
+Vai ir kādas tastatūras saīsnes izslēgšanai?
+Izslēgšana pēc noteikta laika
+Izslēgšanas problēma Ubuntu 16.04
+Kā novērst izslēgšanas problēmu?
+Kādu grafisko utilītu var izmantot Ubuntu automātiskajai izslēgšanai?

@@ -1,0 +1,53 @@
+Kuidas kuva salvestada?
+Kuidas PDF-e esile tõsta või märgistada?
+Kas tasub uuendada LTS 12.04 versiooniks 13.04
+64-bitine täiendus versiooniks 12.04
+Kuidas uuendada Ubuntu 14.04.1 versiooniks 14.04.2?
+Üleminek Ubuntu 14.04-lt 15.04-le
+kuidas uuendada ubuntu 15.04 15.10-le?
+Täiendus versioonilt 12.04 versiooniks 12.10 käivitusketta abil
+Kuidas täiendada versiooni 11.10 versiooniks 12.04, kui sul on probleem?
+Uuenda 11.04 versiooniks 12.04 LiveCD abil
+Kuidas uuendada Ubuntu 9.10 versiooniks 12.10 terminali kaudu?
+Kuidas uuendada Ubuntu 10.10-lt 11.04-le?
+Ükskõik mida ma teen Ubuntu 15.04 ei tunne ära HP LaserJet 1020
+Kuidas seadistada ubuntus HP printer/skanner?
+Kuidas HP C4140 printerit juhtmevabalt häälestada?
+Kuidas seadistada traadita printimist Ubuntu Serveri versioonis 12.10 usb kaudu ühendatud printerist?
+Kuidas installida Ubuntus Pantum 2502W laserprinterit
+Canon MP560 installimine operatsioonisüsteemis Ubuntu 15.04
+Kuidas installida Brother MFC-5890CN võrguprinterit?
+Kuidas installida draivereid Konica Minolta 200 jaoks?
+Kuidas installida draivereid Panasonic MB1900CX All-in-One printerile/skannerile?
+Kuidas installida Canon LBP2900B printer versioonis 14.04 LTS? Proovisin LBP2900 meetodit, kuid see ei töötanud
+Kas Ubuntu jaoks on olemas käsurea kalkulaator?
+Manustatud piltide ekstraktimine PDF-ist
+Mida kasutada heli/video kiireks kärpimiseks?
+Torrenti klient käsurea jaoks?
+MySQL-i GUI-tööriistad
+Millised arendaja tekstiredaktorid on Ubuntu jaoks saadaval?
+Millised kuvatõmmise tegemise tööriistad on saadaval?
+Milliseid programme saab PDF-failide redigeerimiseks kasutada?
+Kas piltide kiireks kärpimiseks on olemas väiksemahuline tööriist?
+Millised IRC kliendid on saadaval?
+Millised uued mängud on Ubuntu jaoks saadaval 2011. aastal?
+UPnP/DLNA (kliendi) pleieri soovitused?
+Milline teaduslik joonestamistarkvara on saadaval?
+Kas oskate soovitada parooligeneraatorit?
+Milliseid tööriistu kasutate veebiserveri jälgimiseks?
+Mis on hea MongoDB GUI klient?
+Paroolihalduse rakendused?
+Kas mobi failide lugemiseks on mõni rakendus?
+väljalülitamine lisaküsimuseta
+Kuidas arvuti välja lülitada, kui kasutajad on sisse logitud?
+Mis on õige terminalitee väljalülitamiseks?
+Kuidas saab süsteemi kindla aja möödudes automaatselt välja lülitada?
+Kiirklahv sisselogimiskuvalt väljalülitamiseks?
+Kuidas pärast Xsessiooni lõppu arvuti välja lülitada?
+Kuidas saab arvuti klaviatuuri abil sulgeda?
+Kuidas lubada sulgemise paljusõnalisus?
+Kas väljalülitamiseks on olemas kiirklahve?
+Väljalülitamine teatud aja pärast
+Ubuntu 16.04 sulgemisprobleem
+Kuidas lahendada sulgemisprobleem?
+Millist graafilist utiliiti saab Ubuntu automaatsulgemiseks kasutada?

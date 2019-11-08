@@ -1,0 +1,53 @@
+Kaip įrašyti ekraną?
+Kaip galiu išskirti arba komentuoti PDF?
+Ar verta atnaujinti nuo 12.04 LTS iki 13.04
+Atnaujinkite iki 64 bitų 12.04 versijos
+Kaip atnaujinti Ubuntu nuo 14.04.1 iki 14.04.2?
+Atnaujinimas iš Ubuntu 14.04 iki 15.04
+kaip atnaujinti Ubuntu nuo 15.04 iki 15.10?
+Atnaujinti nuo 12.04 iki 12.10 naudojant paleisties diską
+Kaip atnaujinti nuo 11.10 iki 12.04, kai kyla problema?
+Atnaujinti nuo 11.04 iki 12.04 su "LiveCD"
+Kaip atnaujinti Ubuntu 9.10 iki 12.10 per terminalą?
+Kaip atnaujinti iš Ubuntu 10.10 iki 11.04?
+Nesvarbu, ką aš darau, tačiau Ubuntu 15.04 neatpažįsta HP LaserJet 1020
+Kaip nustatyti "HP" spausdintuvą / skaitytuvą "Ubuntu"?
+Kaip įdiegti spausdintuvą HP C4140 bevieliame tinkle?
+Kaip konfigūruoti belaidį spausdinimą iš spausdintuvo, prijungto per USB, Ubuntu Server 12.10?
+Kaip įdiegti "Pantum 2502W" lazerinį spausdintuvą "Ubuntu"
+Įdiekite "Canon MP560" Ubuntu 15.04
+Kaip įdiegti "Brother MFC-5890CN" tinklo spausdintuvą?
+Kaip įdiegti "Konica Minolta 200" tvarkykles?
+Kaip įdiegti "Panasonic" MB1900CX "All-in-One" spausdintuvo ar skaitytuvo tvarkykles?
+Kaip įdiegti Canon LBP2900B spausdintuvą LTS 14.04? Aš bandžiau metodą skirtą LBP2900, bet jis neveikė
+Bet kokia Ubuntu komandinės eilutės skaičiuoklė?
+Įterptųjų vaizdų ištraukimas iš PDF
+Ką naudoti, jei norite greitai iškirpti garso / vaizdo įrašą
+Torrent klientas komandinei eilutei?
+MySQL GUI įrankiai
+Kokie kūrėjo teksto redaktoriai yra prieinami Ubuntu?
+Kokie ekrano nuotraukų įrankiai yra prieinami?
+Kokias programas galiu naudoti norint redaguoti PDF failus?
+Ar yra paprastas įrankis greitai apkarpyti nuotraukoms?
+Kokie yra galimi IRC klientai?
+Kokie nauji žaidimai galimi Ubuntu 2011 m.?
+UPNP / DLNA (kliento) grotuvo rekomendacijos?
+Kokios yra galimos mokslinės grafikos programinės įrangos?
+Ar galite rekomenduoti slaptažodžio generatorių?
+Kokius įrankius naudojate stebėti žiniatinklio serverį?
+Koks yra geras MongoDB GUI klientas?
+Slaptažodžių tvarkymo programos?
+Ar yra programa, skirta skaityti Mobi failus?
+uždaryti be papildomo klausimo
+Kaip išjungti kompiuterį, kai prisijungę prie sistemos?
+Koks yra tinkamas terminalinis būdas išjungti?
+Kaip galėčiau automatiškai išjungti sistemą po tam tikro laiko?
+Karštas klavišas išjungti iš prisijungimo ekrano?
+Kaip išjungti kompiuterį po Xsession baigimo?
+Kaip galima išjungti kompiuterį naudojant klaviatūrą?
+Kaip galiu įjungti išjungimo daugiakalbiškumą?
+Ar yra kokių nors klaviatūrios sparčiųjų klavišų išjungimui?
+Išjungimas po tam tikro laiko
+Išjungimo problema Ubuntu 16.04
+Kaip išspręsti išjungimo problemą?
+Kokią grafinę priemonę galiu naudoti automatiniam uždarymui Ubuntu?
